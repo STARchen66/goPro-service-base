@@ -1,0 +1,11 @@
+
+GET http://localhost:8000/ping
+
+###
+
+POST http://localhost:8000/api/auth/registered
+
+###
+
+POST http://localhost:8000/api/auth/login
+
